@@ -19,6 +19,7 @@ I created static and templates folder to be used with jinja. Then I needed to do
 I had issues creating a database file for sqlalchemy so I used this [link to stackoverflow](https://stackoverflow.com/questions/34122949/working-outside-of-application-context-flask#:~:text=Two%20possible%20solution)
 
 Looking at that I ran the following commands in my terminal
+
 `flask shell`
 
 and then
