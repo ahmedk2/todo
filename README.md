@@ -22,6 +22,8 @@ You should be able to run this app locally using this command
 
 `python app.py`
 
+You should be able to open this link http://127.0.0.1:5000 in your browser
+
 ## Optional Section
 
 You may need to run the following two commands to create a database file. Then execution app.py would work.
